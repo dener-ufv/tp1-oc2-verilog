@@ -1,0 +1,10 @@
+#ignore everything
+*
+
+#except .v files
+!*.v
+!.gitignore
+!inputs/
+!inputs/*
+!pipeline_regs/
+!pipeline_regs/*
